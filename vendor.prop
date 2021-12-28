@@ -42,6 +42,9 @@ ro.vendor.display.sensortype=2
 # DRM
 drm.service.enabled=true
 
+# Dual SIM Fix
+persist.radio.multisim.config=dsds
+
 # FRP
 ro.frp.pst=/dev/block/bootdevice/by-name/config
 
