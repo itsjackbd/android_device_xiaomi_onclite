@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ssos_onclite.mk
+    $(LOCAL_DIR)/lineage_onclite.mk
 
 COMMON_LUNCH_CHOICES := \
-    ssos_onclite-user \
-    ssos_onclite-userdebug \
-    ssos_onclite-eng
+    lineage_onclite-user \
+    lineage_onclite-userdebug \
+    lineage_onclite-eng
